@@ -1,0 +1,23 @@
+{
+  "Carly": {
+    "age": 30,
+    "occupation": "Assistant Manager",
+    "relation": "Daughter, sister and mother",
+    "hometown": "Rugby",
+    "hobbies": "I enjoy spending time with my daughter or catching up with friends"
+  },
+  "Chris": {
+    "age": 33,
+    "occupation": "Web Applications Developer",
+    "relation": "Son and brother",
+    "hometown": "Bristol",
+    "hobbies": "In my spare time I play guitar and produce music. I also enjoy running regularly"
+  },
+  "Jo": {
+    "age": 28,
+    "occupation": "Teacher",
+    "relation": "Daughter, sister and mother",
+    "hometown": "Leamington Spa",
+    "hobbies": "In my spare time I like to spend time with my son Logan. I am also studying for a masters in psychology!"
+  }
+}
